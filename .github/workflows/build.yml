@@ -19,6 +19,8 @@ jobs:
         with:
           java-version: '25'
           distribution: 'microsoft'
+      - name: clear build
+        run: ./gradlew clean build
       - name: make gradle wrapper executable
         run: chmod +x ./gradlew
       - name: build
