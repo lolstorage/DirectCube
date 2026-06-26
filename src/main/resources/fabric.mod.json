@@ -3,9 +3,9 @@
 	"id": "directcube",
 	"version": "${version}",
 	"name": "DirectCube",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "DirectCube is a optimization mod for minecraft that lets you use D3D9 as the renderer instead of OpenGL",
 	"authors": [
-		"Me!"
+		"LolStorage"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
